@@ -1,0 +1,20 @@
+rand() mode:   N =        100 	 volume = 2.240000    Time = 0.009220100 seconds
+rand() mode:   N =       1000 	 volume = 1.848000    Time = 0.090084702 seconds
+rand() mode:   N =      10000 	 volume = 1.895200    Time = 1.478908539 seconds
+rand() mode:   N =     100000 	 volume = 1.909280    Time = 12.070398331 seconds
+rand() mode:   N =    1000000 	 volume = 1.905304    Time = 108.833656311 seconds
+rand() mode:   N =   10000000 	 volume = 1.907030    Time = 1109.787963867 seconds
+
+random() mode: N =        100 	 volume = 1.920000    Time = 0.014191200 seconds
+random() mode: N =       1000 	 volume = 2.104000    Time = 0.114846401 seconds
+random() mode: N =      10000 	 volume = 1.868000    Time = 0.949906826 seconds
+random() mode: N =     100000 	 volume = 1.916400    Time = 9.785110474 seconds
+random() mode: N =    1000000 	 volume = 1.908160    Time = 103.736335754 seconds
+random() mode: N =   10000000 	 volume = 1.907558    Time = 1144.318359375 seconds
+
+drand48() mode: N =        100 	 volume = 1.440000    Time = 0.008948900 seconds
+drand48() mode: N =       1000 	 volume = 1.872000    Time = 0.093077101 seconds
+drand48() mode: N =      10000 	 volume = 1.937600    Time = 0.952402651 seconds
+drand48() mode: N =     100000 	 volume = 1.890560    Time = 9.607208252 seconds
+drand48() mode: N =    1000000 	 volume = 1.905680    Time = 96.531799316 seconds
+drand48() mode: N =   10000000 	 volume = 1.904433    Time = 1239.876953125 seconds
